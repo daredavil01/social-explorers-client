@@ -26,6 +26,8 @@ I have created a basic social media platform with basic utilities which include:
 * Comment
 * Notifications
 
+### Here is a [link](https://github.com/daredavil01/social-explorers-client/blob/master/Web_technology_presentation_group_3.pdf) to project presentation.
+
 ## Firebase Deployed API URL:
 ### [API](https://us-central1-socialexplorers-aae2b.cloudfunctions.net/api/)
 
